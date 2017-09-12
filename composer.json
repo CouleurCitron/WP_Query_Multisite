@@ -1,0 +1,15 @@
+{
+    "name": "couleur-citron/wp-query-multisite",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Couleur Citron",
+            "email": "technique@couleur-citron.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
