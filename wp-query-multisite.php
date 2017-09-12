@@ -7,6 +7,4 @@
  * Author URI:      https://www.couleur-citron.com/
  */
 
-require __DIR__ . '/vendor/autoload.php';
-
 new WP_Query_Multisite();
